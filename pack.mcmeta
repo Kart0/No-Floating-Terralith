@@ -1,12 +1,9 @@
 {
-  "pack": {
-    "id": "no-floating-terralith",
-    "supported_formats": [
-      71,
-      81
-    ],
-    "pack_format": 71,
-    "description": [
+    "pack": {
+        "id": "no-floating-terralith",
+        "min_format": 94,
+        "max_format": 94,
+        "description": [
       {
         "text": "Enhancing vanilla removing FLOATING ISLANDS\nCreated by ",
         "color": "gray"

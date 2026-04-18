@@ -1,20 +1,17 @@
 {
-  "pack": {
-    "id": "no-floating-terralith",
-    "supported_formats": [
-      71,
-      81
-    ],
-    "pack_format": 71,
-    "description": [
-      {
-        "text": "Enhancing vanilla removing FLOATING ISLANDS\nCreated by ",
-        "color": "gray"
-      },
-      {
-        "text": "KartillO",
-        "color": "#ff9900"
-      }
-    ]
-  }
+    "pack": {
+        "id": "no-floating-terralith",
+        "min_format": 101,
+        "max_format": 101,
+        "description": [
+			{
+				"text": "Enhancing vanilla removing FLOATING ISLANDS\nCreated by ",
+				"color": "gray"
+			},
+			{
+				"text": "KartillO",
+				"color": "#ff9900"
+			}
+		]
+	}
 }
